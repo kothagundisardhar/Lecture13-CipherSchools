@@ -1,0 +1,2 @@
+npm install -g npm
+npm -g i create-react-app
